@@ -1,3 +1,7 @@
+[![deploy me](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?https://github.com/Freemailbot/LuciferMoringstar-Robot)
+
+
+
 <p align="center">
   <img src="LuciferMoringstar_Robot/modules/logo/LuciferMoringstar-Robot-Logo.jpeg" alt="LuciferMoringstar Robot Logo">
 </p>
@@ -10,8 +14,8 @@
 
 
 
-### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲 🤔
-[![name](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Freemailbot/LuciferMoringstar-Robot)
+
+
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
 <a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"> <img src="https://img.shields.io/youtube/channel/subscribers/UCmGBpXoM-OEm-FacOccVKgQ?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
