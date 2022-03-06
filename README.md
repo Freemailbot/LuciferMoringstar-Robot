@@ -10,7 +10,7 @@
 
 
 
-### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
+### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲 🤔
 [![name](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Freemailbot/LuciferMoringstar-Robot)
 
 ### 🔔 𝗦𝗨𝗕𝗦𝗖𝗥𝗜𝗕𝗘 🔔
